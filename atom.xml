@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>にちじょう</title>
+  <icon>https://muddle-headed-dog.github.io/img/favicon.ico</icon>
+  <subtitle>我们所度过的每个平凡的日常，也许就是连续发生的奇迹。</subtitle>
+  <link href="https://muddle-headed-dog.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://muddle-headed-dog.github.io/"/>
+  <updated>2025-12-20T15:39:12.287Z</updated>
+  <id>https://muddle-headed-dog.github.io/</id>
+  
+  <author>
+    <name>muddle-headed-dog</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>折腾日记</title>
+    <link href="https://muddle-headed-dog.github.io/4104786058/"/>
+    <id>https://muddle-headed-dog.github.io/4104786058/</id>
+    <published>2025-12-17T17:29:44.000Z</published>
+    <updated>2025-12-20T15:39:12.287Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
